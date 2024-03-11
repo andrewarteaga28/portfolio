@@ -1,0 +1,14 @@
+---
+title: "Projects"
+sidebar: false
+toc: false
+listing: 
+  - id: projects-listing
+    sort: false
+    sort-ui: false
+    filter-ui: true
+    type: table
+    fields:
+      - title
+    categories: false
+---

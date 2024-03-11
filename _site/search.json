@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "Projects.html",
+    "href": "Projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Title\n\n\n\n\n\n\nAbout\n\n\n\n\nResume\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Andrew Arteaga",
+    "section": "",
+    "text": "Attached is my current Resume"
+  },
+  {
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "Andrew Arteaga",
+    "section": "",
+    "text": "Attached is my current Resume"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Andrew Arteaga",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles\n\nStatistics and Data Science, B.S."
+  }
+]

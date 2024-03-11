@@ -1,0 +1,26 @@
+project:
+  type: website
+
+website:
+  title: "Andrew Arteaga"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: Projects.qmd
+  
+
+page-footer:
+    right: "&copy; 2024, Andrew Arteaga"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+  
+
+execute: 
+  freeze: auto 
+

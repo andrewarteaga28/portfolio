@@ -1,0 +1,26 @@
+---
+toc : false
+about: 
+  template: trestles
+  links: 
+    - icon: linkedin
+      text: LinkedIn
+      url: www.linkedin.com/in/arteaga28
+    - icon: github
+      text: GitHub
+      url: https://github.com/andrewarteaga28
+    - icon: inbox-fill
+      text: Email
+      url: "mailto:andrew.arteaga.28@gmail.com"
+image: IMG_5419.JPG
+---
+
+## Resume
+
+Attached is my current [Resume](/docs/Andrew%20Arteaga%20Resume.pdf "Resume")
+
+## Education
+
+University of California, Los Angeles
+
+-   Statistics and Data Science, B.S.
